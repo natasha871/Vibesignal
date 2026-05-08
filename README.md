@@ -56,3 +56,9 @@ VibeSignal helps builders get real-world human signal before shipping.
 🌐 https://vibesignal.dev/
 
 Currently onboarding early builders and testers.så
+
+
+
+## Preview
+
+<img width="1050" height="738" alt="Skjermbilde 2026-05-08 kl  18 36 49" src="https://github.com/user-attachments/assets/da8a117e-7dcc-446f-b358-fb0f5b1bd5f0" />
